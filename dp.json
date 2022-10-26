@@ -1,5 +1,4 @@
-{
-    "courses": [
+[
       {
         "id": 1,
         "category": "Python",
@@ -1350,4 +1349,3 @@
       "caption_languages": ["English, "]
       }
     ]
-  }
